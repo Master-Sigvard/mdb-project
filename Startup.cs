@@ -8,7 +8,6 @@ namespace mdb_project
         {
             services.AddMvc();
             services.AddControllersWithViews();
-
         }
 
         public void Configure(IApplicationBuilder app)
