@@ -1,12 +1,14 @@
 using mdb_project.Model;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<FilmDBContext>(options =>
 {
-    options.UseSqlServer("Server=DESKTOP-PDNGHNS\\SQLEXPRESS;Database=FilmDB;Trusted_Connection=True;TrustServerCertificate=True");
+    options.UseSqlServer("Server=DESKTOP-PDNGHNS\\SQLEXPRESS;Database=FilmDB;" +
+        "Trusted_Connection=True;TrustServerCertificate=True");
 });
 
 var app = builder.Build();

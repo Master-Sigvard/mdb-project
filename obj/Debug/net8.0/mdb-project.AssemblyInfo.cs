@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mdb-project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7db03c253fc7d66a6a834d89a12ed0567de0c845")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d6722860e51b43cfbc488ec81f8c7fcf503466")]
 [assembly: System.Reflection.AssemblyProductAttribute("mdb-project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mdb-project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

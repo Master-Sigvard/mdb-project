@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240504141447_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240504141447_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\migrations\\20240509155634_reviewfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:migrations\\20240509155634_reviewfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,45 +70,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240504141447_InitialCreation.cs",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240504141447_InitialCreation.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240504141447_InitialCreation.cs",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240504141447_InitialCreation.cs",
-              "RelativeToolTip": "Migrations\\20240504141447_InitialCreation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "20240509155634_ReviewFilm.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240509155634_ReviewFilm.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240509155634_ReviewFilm.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240509155634_ReviewFilm.cs",
+              "RelativeToolTip": "Migrations\\20240509155634_ReviewFilm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:14:47.836Z",
+              "WhenOpened": "2024-05-09T15:56:34.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "Model\\Review.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Review.cs",
+              "RelativeToolTip": "Model\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:44:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Film.cs",
+              "RelativeDocumentMoniker": "Model\\Film.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Film.cs",
+              "RelativeToolTip": "Model\\Film.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:43:54.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FilmDBContext.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\FilmDBContext.cs",
               "RelativeDocumentMoniker": "Model\\FilmDBContext.cs",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\FilmDBContext.cs",
               "RelativeToolTip": "Model\\FilmDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T13:19:52.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\User.cs",
               "RelativeToolTip": "Model\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T13:16:24.924Z"
+              "WhenOpened": "2024-05-04T13:16:24.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": ".gitattributes",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\.gitattributes",
               "RelativeDocumentMoniker": ".gitattributes",
@@ -108,7 +143,8 @@
               "RelativeToolTip": ".gitattributes",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-03-14T02:01:58.008Z"
+              "WhenOpened": "2024-03-14T02:01:58.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,13 +154,14 @@
               "RelativeDocumentMoniker": "Views\\Home\\login.cshtml",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Home\\login.cshtml",
               "RelativeToolTip": "Views\\Home\\login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T01:58:31.997Z"
+              "WhenOpened": "2024-03-14T01:58:31.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -132,11 +169,12 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T22:51:56.9Z"
+              "WhenOpened": "2024-03-13T22:51:56.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -144,11 +182,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-14T00:39:40.321Z"
+              "WhenOpened": "2024-03-14T00:39:40.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -161,19 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T22:56:18.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -186,7 +213,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:56:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -194,7 +234,8 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-13T22:01:55.573Z"
+              "WhenOpened": "2024-03-13T22:01:55.573Z",
+              "EditorCaption": ""
             }
           ]
         }

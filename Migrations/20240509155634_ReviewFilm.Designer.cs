@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using mdb_project.Model;
 
@@ -11,9 +12,11 @@ using mdb_project.Model;
 namespace mdb_project.Migrations
 {
     [DbContext(typeof(FilmDBContext))]
-    partial class FilmDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240509155634_ReviewFilm")]
+    partial class ReviewFilm
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
