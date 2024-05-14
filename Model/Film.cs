@@ -10,7 +10,7 @@ namespace mdb_project.Model
         public string Name { get; set; } = null!;
         public string? Description { get; set; }
         public string? Genre { get; set; }
-        public DateTime? Year { get; set; }
+        public int? Year { get; set; }
         public DateTime? Premiere { get; set; }
         public string? Actors { get; set; }
         public string? Director { get; set; }

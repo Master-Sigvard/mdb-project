@@ -1,9 +1,18 @@
 using mdb_project.Model;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = "Cookies";
+    options.DefaultSignInScheme = "Cookies";
+    options.DefaultChallengeScheme = "Cookies";
+})
+    .AddCookie("Cookies", options =>
+    {
+        options.LoginPath = "/Login";
+    });
 
 builder.Services.AddDbContext<FilmDBContext>(options =>
 {

@@ -9,6 +9,7 @@ namespace mdb_project.Controllers
         [Route("home")]
         public IActionResult Index()
         {
+            Console.WriteLine("homepage");
             return View("Index");
         }
 
@@ -16,6 +17,18 @@ namespace mdb_project.Controllers
         public IActionResult Authorization()
         {
             return View("login");
+        }
+
+        [Route("signup")]
+        public IActionResult Testing()
+        {
+            return View("signup");
+        }
+
+        [Route("FilmPanel")]
+        public IActionResult FilmPanel()
+        {
+            return View("FilmPanel");
         }
     }
 }
