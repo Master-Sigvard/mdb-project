@@ -12,7 +12,7 @@
 
     <title>home page</title>
 </head>
-<body>
+<body style="background-color:lightsteelblue">
     <header>
         <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="#">MovieHere.com</a>
@@ -45,8 +45,8 @@
                     }
 
                 </ul>
-            </div>
-            <form class="form-inline">
+            </div> 
+            <form class="form-inline" asp-controller="Film" asp-action="FilmSearch">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
             </form>
@@ -59,11 +59,25 @@
         date = date.Substring(0, date.Length - 11);
     } 
 
+    @{
+        double totalRating = 0;
+        int totalReviews = Model.Reviews.Count;
+
+        foreach (var review in Model.Reviews)
+        {
+            totalRating += review.Rating;
+        }
+
+        double averageRating = totalReviews > 0 ? totalRating / totalReviews : 0;
+        averageRating = Math.Round(averageRating, 1);
+    }
+
     <div style="padding-left: 20px; padding-right: 20px">
         <h1>Movie details</h1>
         <div>
             <img src=@Model.Film.Poster height="350" width="250">
             <h2>@Model.Film.Name</h2>
+            <h3>Average rating: @averageRating</h3>
 
             <dl class="row">
                 <dt class="col-sm-3">Genre</dt>
@@ -110,7 +124,7 @@
         }
         else
         {
-            <div>no log in?((</div>
+            <div>To write your own reviews, please <a href ="/login">log in</a> or <a href ="/signup">sign up</a></div>
         }
         <h5>User reviews</h5>
             @foreach (var review in Model.Reviews) {

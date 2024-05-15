@@ -63,6 +63,24 @@ namespace mdb_project.Controllers
             return View(viewModel);
         }
 
+        [Route("search")]
+        [HttpPost]
+        public IActionResult FilmSearch(string searchString)
+        {
+            if (string.IsNullOrEmpty(searchString))
+            {
+                return RedirectToAction("Index", "Home");
+            }
+
+            ViewBag.SearchString = searchString;
+
+            var movies = _context.Films
+                .Where(f => f.Name.Contains(searchString))
+                .ToList();
+
+            return View("FilmSearch", movies);
+        }
+
         [Route("FilmView/ReviewCreated")]
         [HttpPost]
         public IActionResult CreateReview(Review review)

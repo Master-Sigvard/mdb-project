@@ -145,6 +145,7 @@ namespace mdb_project.Controllers
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
             }
             else return View("Login");
+            ViewBag.Welcome = "Welocome back, ";
             return RedirectToAction("Index", "Home");
         }
 
