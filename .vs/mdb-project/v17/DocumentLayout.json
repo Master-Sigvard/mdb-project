@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\filmpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\filmpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\filmview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\filmview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105806_RenameNewYear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240514105806_RenameNewYear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105743_RemoveOldYear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240514105743_RemoveOldYear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105702_newYearField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240514105702_newYearField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\migrations\\20240509155634_reviewfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:migrations\\20240509155634_reviewfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\filmpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\filmpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\filmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\filmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\shared\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\shared\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\model\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,8 +59,8 @@
       "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|c:\\users\\master-sigvard\\desktop\\diplom\\mdb-project\\migrations\\20240514133812_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302105DF-152A-4D2E-A5E1-A098D887363B}|mdb-project.csproj|solutionrelative:migrations\\20240514133812_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,164 +70,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240514105806_RenameNewYear.cs",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105806_RenameNewYear.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240514105806_RenameNewYear.cs",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105806_RenameNewYear.cs",
-              "RelativeToolTip": "Migrations\\20240514105806_RenameNewYear.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T10:58:06.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240514105743_RemoveOldYear.cs",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105743_RemoveOldYear.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240514105743_RemoveOldYear.cs",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105743_RemoveOldYear.cs",
-              "RelativeToolTip": "Migrations\\20240514105743_RemoveOldYear.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T10:57:43.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240514105702_newYearField.cs",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105702_newYearField.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240514105702_newYearField.cs",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514105702_newYearField.cs",
-              "RelativeToolTip": "Migrations\\20240514105702_newYearField.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T10:57:02.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240509155634_ReviewFilm.cs",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240509155634_ReviewFilm.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240509155634_ReviewFilm.cs",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240509155634_ReviewFilm.cs",
-              "RelativeToolTip": "Migrations\\20240509155634_ReviewFilm.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T10:50:06.727Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FilmPanel.cshtml",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\FilmPanel.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\FilmPanel.cshtml",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\FilmPanel.cshtml",
-              "RelativeToolTip": "Views\\Shared\\FilmPanel.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T10:25:01.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FilmController.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\FilmController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmController.cs",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\FilmController.cs",
               "RelativeToolTip": "Controllers\\FilmController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T10:17:53.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "DocumentIndex": 1,
+              "Title": "FilmView.cshtml",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\FilmView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\FilmView.cshtml",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\FilmView.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\FilmView.cshtml*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwCsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T14:06:38.136Z",
+              "WhenOpened": "2024-05-14T21:19:36.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Login.cshtml",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\Login.cshtml",
               "RelativeToolTip": "Views\\Shared\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB6AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-14T01:58:31.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Index.cshtml",
-              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\Index.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwC0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T22:51:56.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAwwFwAAAAJAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwIkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T12:00:42.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\Index.cshtml*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T22:51:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T22:56:18.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "Model\\Review.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Review.cs",
+              "RelativeToolTip": "Model\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:45:26.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\FilmPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\FilmPanel.cshtml",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\FilmPanel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\FilmPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T10:25:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\FilmViewModel.cs",
+              "RelativeDocumentMoniker": "Model\\FilmViewModel.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\FilmViewModel.cs",
+              "RelativeToolTip": "Model\\FilmViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:45:48.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilmDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\FilmDBContext.cs",
+              "RelativeDocumentMoniker": "Model\\FilmDBContext.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\FilmDBContext.cs",
+              "RelativeToolTip": "Model\\FilmDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:51:05.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\SignUp.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\SignUp.cshtml",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Views\\Shared\\SignUp.cshtml",
               "RelativeToolTip": "Views\\Shared\\SignUp.cshtml",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAmwEgAAAAHAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwD8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-13T22:25:51.623Z",
               "EditorCaption": ""
@@ -231,19 +222,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Film.cs",
+              "RelativeDocumentMoniker": "Model\\Film.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\Film.cs",
+              "RelativeToolTip": "Model\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:37:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T21:42:26.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
+              "Title": "20240514133812_rating.cs",
+              "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514133812_rating.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240514133812_rating.cs",
+              "ToolTip": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Migrations\\20240514133812_rating.cs",
+              "RelativeToolTip": "Migrations\\20240514133812_rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:38:12.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\master-Sigvard\\Desktop\\Diplom\\mdb-project\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",

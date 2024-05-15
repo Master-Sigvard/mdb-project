@@ -15,8 +15,6 @@
     <title>my RazorView</title>
 </head>
 
-
-
 <body>
     <header>
         <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
@@ -39,37 +37,50 @@
         </nav>
     </header>
 
-    @if (ViewBag.ErrorMessage != null)
+    @if (ViewBag.Message != null)
     {
-        <div class="alert alert-danger" role="alert">
-            @ViewBag.ErrorMessage
+        <div class="alert alert-success" role="alert">
+            @ViewBag.Message
         </div>
     }
 
     <!-- connection to Users controller here -->
     <form asp-controller="Film" asp-action="Create">
         <label for="inputPassword5" class="form-label">Name</label>
-        <input class="form-control" type="text" placeholder="Film name" aria-label="default input example">
+        <input class="form-control" type="text" name="Name" placeholder="Film name" aria-label="default input example">
+
+        <label for="inputPassword5" class="form-label">Poster</label>
+        <input class="form-control" type="text" name="Poster" placeholder="URL to poster" aria-label="default input example">
+
         <label for="inputPassword5" class="form-label">Description</label>
-        <input class="form-control" type="text" placeholder="Film description" aria-label="default input example">
+        <input class="form-control" type="text" name="Description" placeholder="Film description" aria-label="default input example">
+
         <label for="inputPassword5" class="form-label">Genre</label>
-        <input class="form-control" type="text" placeholder="Film Genre" aria-label="default input example">
-        <label for="inputPassword5" class="form-label">Year production</label>
-        <input class="form-control" type="text" placeholder="Default input" aria-label="default input example">
-        <label for="inputPassword5" class="form-label">Name</label>
-        <input class="form-control" type="text" placeholder="Default input" aria-label="default input example">
-        <label for="inputPassword5" class="form-label">Name</label>
-        <input class="form-control" type="text" placeholder="Default input" aria-label="default input example">
-        <label for="inputPassword5" class="form-label">Name</label>
-        <input class="form-control" type="text" placeholder="Default input" aria-label="default input example">
-        <label for="inputPassword5" class="form-label">Name</label>
-        <input class="form-control" type="text" placeholder="Default input" aria-label="default input example">
-        <label for="inputPassword5" class="form-label">Name</label>
-        <input class="form-control" type="text" placeholder="Default input" aria-label="default input example">
+        <input class="form-control" type="text" name="Genre" placeholder="Film Genre" aria-label="default input example">
+
+        <label for="inputPassword5" class="form-label">Year of production</label>
+        <input class="form-control" type="text" name="Year" placeholder="YYYY" aria-label="default input example">
+
+        <label for="inputPassword5" class="form-label">Date of premiere</label>
+        <input class="form-control" type="date" name="Premiere" placeholder="MM/DD/YYYY" aria-label="default input example">
+
+        <label for="inputPassword5" class="form-label">Actors</label>
+        <input class="form-control" type="text" name="Actors" placeholder="Robert J." aria-label="default input example">
+
+        <label for="inputPassword5" class="form-label">Director</label>
+        <input class="form-control" type="text" name="Director" placeholder="Quentin T." aria-label="default input example">
+
+        <label for="inputPassword5" class="form-label">Studio</label>
+        <input class="form-control" type="text" name="Studio" placeholder="Marvel" aria-label="default input example">
+
+        <label for="inputPassword5" class="form-label">Country</label>
+        <input class="form-control" type="text" name="Country" placeholder="Ukraine" aria-label="default input example">
+
+        <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 
     <form asp-controller="Film" asp-action="DeleteAll">
-        <button class="btn btn-danger">delte all users</button>
+        <button class="btn btn-danger">delte all films</button>
     </form>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

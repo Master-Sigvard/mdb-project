@@ -1,16 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using mdb_project.Model;
+using Microsoft.AspNetCore.Mvc;
 
 namespace mdb_project.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly FilmDBContext _context;
+
+        public HomeController(FilmDBContext context)
+        {
+            _context = context;
+        }
 
         [Route("/")]
         [Route("home")]
         public IActionResult Index()
         {
-            Console.WriteLine("homepage");
-            return View("Index");
+            var films = _context.Films.ToList();
+            return View(films);
         }
 
         [Route("login")]

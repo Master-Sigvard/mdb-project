@@ -130,10 +130,12 @@ namespace mdb_project.Controllers
             {
                 var currentUser = _context.Users.FirstOrDefault(u => u.Email == user.Email);
                 var name = currentUser.Name;
+                var id = currentUser.Id;
 
                 var claims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Name, name),
+                    new Claim(ClaimTypes.NameIdentifier, id.ToString())
                 };
 
                 var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -142,7 +144,8 @@ namespace mdb_project.Controllers
 
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
             }
-            return View("Index");
+            else return View("Login");
+            return RedirectToAction("Index", "Home");
         }
 
         [Route("Logout")]
@@ -151,7 +154,7 @@ namespace mdb_project.Controllers
         {
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
 
-            return View("Index");
+            return RedirectToAction("Index", "Home");
         }
     }
 }

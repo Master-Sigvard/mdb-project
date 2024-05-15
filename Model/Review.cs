@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace mdb_project.Model
 {
@@ -13,7 +14,9 @@ namespace mdb_project.Model
         public string Text { get; set; }
         public int UserId { get; set; } //foreign key to Users
         public int FilmId { get; set; } //foreign key to Films
-        public User User { get; set; } = null!; // Required reference navigation to Users
-        public Film Film { get; set; } = null!; // Required reference navigation to Films
+        [BindNever]
+        public User? User { get; set; } // Required reference navigation to Users
+        [BindNever]
+        public Film? Film { get; set; } // Required reference navigation to Films
     }
 }

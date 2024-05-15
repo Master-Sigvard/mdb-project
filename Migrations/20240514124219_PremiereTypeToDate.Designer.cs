@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using mdb_project.Model;
 
@@ -11,9 +12,11 @@ using mdb_project.Model;
 namespace mdb_project.Migrations
 {
     [DbContext(typeof(FilmDBContext))]
-    partial class FilmDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240514124219_PremiereTypeToDate")]
+    partial class PremiereTypeToDate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -51,14 +54,8 @@ namespace mdb_project.Migrations
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)");
 
-                    b.Property<string>("Poster")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<DateTime?>("Premiere")
                         .HasColumnType("Date");
-
-                    b.Property<int?>("Rating")
-                        .HasColumnType("int");
 
                     b.Property<string>("Studio")
                         .HasMaxLength(200)
@@ -69,7 +66,7 @@ namespace mdb_project.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Films");
+                    b.ToTable("Film");
                 });
 
             modelBuilder.Entity("mdb_project.Model.Review", b =>
@@ -99,7 +96,7 @@ namespace mdb_project.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Reviews");
+                    b.ToTable("Review");
                 });
 
             modelBuilder.Entity("mdb_project.Model.User", b =>

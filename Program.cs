@@ -22,7 +22,6 @@ builder.Services.AddDbContext<FilmDBContext>(options =>
 
 var app = builder.Build();
 
-
 app.UseRouting();
 app.MapControllers();
 
