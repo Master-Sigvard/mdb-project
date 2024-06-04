@@ -22,8 +22,6 @@ namespace mdb_project.Controllers
         {
             if (ModelState.IsValid)
             {
-                //if (CheckUserCreation(user)) return View("SignUp");
-
                 _context.Films.Add(film);
                 _context.SaveChanges();
             }
